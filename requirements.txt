@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-postgres
+langchain-aws
+langchain-community
+PyPDF2
+python-dotenv
+altair
+urllib3
+boto3
+awscli
+botocore
+anthropic
+psycopg2-binary
